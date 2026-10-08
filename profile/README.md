@@ -41,10 +41,9 @@
     <td align="center">BE</td>
   </tr>
   <tr>
-    <!-- 사진: src에 이미지 주소를 넣으세요 (예: https://github.com/bluebomin.png) -->
-    <td align="center"><img src="" width="120" height="120" alt="김보민"></td>
-    <td align="center"><img src="" width="120" height="120" alt="안성민"></td>
-    <td align="center"><img src="" width="120" height="120" alt="정민서"></td>
+    <td align="center"><img src="https://github.com/bluebomin.png" width="120" height="120" alt="김보민"></td>
+    <td align="center"><img src="https://github.com/minnnnnnni.png" width="120" height="120" alt="안성민"></td>
+    <td align="center"><img src="https://github.com/M-J1nx.png" width="120" height="120" alt="정민서"></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/bluebomin">bluebomin</a></td>
