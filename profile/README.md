@@ -1,8 +1,10 @@
-# 📝 내신 영어 AI 시험 제작 서비스
+<div align="center">
 
-> 2026 SW MVP 경진대회 · 숙명여자대학교
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B3A8C,100:4A5BC4&height=220&section=header&text=%EB%82%B4%EC%8B%A0%20%EC%98%81%EC%96%B4%20AI%20%EC%8B%9C%ED%97%98%20%EC%A0%9C%EC%9E%91%20%EC%84%9C%EB%B9%84%EC%8A%A4&fontColor=FFFFFF&fontSize=40&fontAlignY=38&desc=2026%20SW%20MVP%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20%C2%B7%20%EC%88%99%EB%AA%85%EC%97%AC%EC%9E%90%EB%8C%80%ED%95%99%EA%B5%90&descSize=18&descAlignY=58" width="100%" alt="배너">
 
 학교별 기출문제를 분석해 **출제 패턴에 맞는 내신 영어 서답형 시험지**를 AI로 만들어 주는 학원용 서비스입니다.
+
+</div>
 
 ## ✨ 주요 기능
 
@@ -14,11 +16,19 @@
 
 ## 🛠 기술 스택
 
-| 구분 | 스택 |
-|---|---|
-| Backend | Java 17 · Spring Boot · Spring Data JPA · PostgreSQL · OpenHTMLtoPDF · PDFBox |
-| AI | OpenAI 멀티모달 LLM |
-| Frontend | <!-- 프론트 스택 채워주세요 --> |
+**Backend**
+
+<img src="https://img.shields.io/badge/Java%2017-007396?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"> <img src="https://img.shields.io/badge/PDFBox-D22128?style=for-the-badge&logo=apache&logoColor=white">
+
+**AI**
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+
+<!-- Frontend: 프론트 스택이 정해지면 **Frontend** 제목과 배지를 추가하세요 -->
+
+**Collaboration**
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ## 📂 Repositories
 
